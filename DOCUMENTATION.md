@@ -1,9 +1,10 @@
 # Documentation - Stack GLPI avec Docker Swarm
 
 ## Participants
-- **Nom Prénom 1**: [À compléter]
-- **Nom Prénom 2**: [À compléter]
-- **Nom Prénom 3**: [À compléter]
+- **FILSNOEL Léo**
+- **BESSON Victor**
+- **RENAULD Yohann**
+- **TOUROUGUI Jallyl**
 
 ---
 
